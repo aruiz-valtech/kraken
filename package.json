@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pa11y": "^5.1.0",
+    "pa11y-reporter-html": "^1.0.0",
+    "sitespeed.io": "^9.3.2",
+    "testcafe": "^1.2.1",
+    "testcafe-cucumber": "git+ssh://git@github.com/rquellh/testcafe-cucumber.git"
+  }
+}
